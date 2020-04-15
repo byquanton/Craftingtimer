@@ -1,0 +1,9 @@
+name: Craftingtimer
+version: ${project.version}
+main: me.byquanton.craftingtimer.Craftingtimer
+api-version: 1.13
+authors: [byquanton]
+commands:
+  craft:
+    usage: /craft start/stop/toggle
+    description: Counts the Time of Crafting an Item
